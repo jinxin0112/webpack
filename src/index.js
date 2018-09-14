@@ -15,7 +15,6 @@ class Person {
 }
 
 let king = new Person();
-console.log(king.face);
 
 
 if(module.hot){
